@@ -7,6 +7,7 @@ __pycache__/
 *.pyc
 **/.ipynb_checkpoints
 .pytest_cache/
+.mypy_cache/
 
 .vscode/
 .secret/
@@ -16,3 +17,5 @@ venv/
 .venv/
 
 model/
+config.toml
+data/
